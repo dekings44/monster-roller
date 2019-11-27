@@ -1,0 +1,11 @@
+.search {
+	-webkit-appearance: none;
+	border: 3px groove;
+	border-radius: 15px;
+	outline: none;
+	padding: 3px 10px;
+	width: 400px;
+	line-height: 30px;
+	margin-bottom: 30px;
+	border-color: #0a101dbb;
+}
